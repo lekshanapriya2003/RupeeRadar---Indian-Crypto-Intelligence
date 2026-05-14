@@ -332,10 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Email: support@rupeeradar.com
-- Discord: [Join our community](https://discord.gg/rupeeradar)
-- Issues: [GitHub Issues](https://github.com/your-username/RupeeRadar/issues)
-- Documentation: [Full Documentation](https://docs.rupeeradar.com)
+- Email: lekshanapriya@gmail.com
 
 ---
 
